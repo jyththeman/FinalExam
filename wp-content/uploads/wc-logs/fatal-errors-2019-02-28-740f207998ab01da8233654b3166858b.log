@@ -1,0 +1,8 @@
+2019-02-28T06:03:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\mywebapp\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-02-28T06:06:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\mywebapp\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-02-28T06:10:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\mywebapp\wp-includes\wp-db.php on line 1924
+
+2019-02-28T06:15:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\mywebapp\wp-includes\wp-db.php on line 1924
+
